@@ -39,6 +39,8 @@ Table of Contents
 * [CreateUserPkg](https://github.com/MagerValp/CreateUserPkg) - Mac app to create a package that installs or updates a user on an OS X system, built with PyObjC.
 * [createOSXInstallPkg](https://github.com/munki/createOSXInstallPkg) - Tool for converting an OS X installer app/ESD to a package that can trigger the OS X install on the next boot, optionally with additional packages added in the install.
 * [AutoPkg](https://github.com/autopkg/autopkg) - Tool and community for automating common deployment tasks using sharable 'recipes', for example: discovering new application updates, preparing them for deployment, importing into popular management platforms.
+* [JSSImporter](https://github.com/sheagcraig/JSSImporter) - Framework for connecting AutoPkg to JSS, for administrators running JAMF's Casper Suite.
+* [JSSRecipeCreator](https://github.com/sheagcraig/JSSRecipeCreator) - Tool that enables Casper administrators to quickly create JSSImporter-compatbile AutoPkg recipes.
 * [vfuse](https://github.com/chilcote/vfuse) - Tool for converting an OS X system DMG to a VMware Fusion VM.
 * [stew](https://github.com/chilcote/stew) - Creation of never-booted, restorable OS X system images with additional packages.
 * [AutoNBI](https://bitbucket.org/bruienne/autonbi) - Tool for automated creation of Netboot image bundles using System Image Utility's automation tools.
@@ -46,8 +48,6 @@ Table of Contents
 * [aamporter](https://github.com/timsutton/aamporter) - Tool for automating the download and importing of Adobe CS/CC updates into Munki.
 * [can_haz_image](https://github.com/google/macops) - Tool for creating never-booted OS X system images with additional packages.
 * [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) - Convert a Configuration Profile to an installer package that can be installed to both booted and non-booted volumes.
-* [JSSImporter](https://github.com/sheagcraig/JSSImporter) - Framework for connecting AutoPkg to JSS, for administrators running JAMF's Casper Suite.
-* [Python-JSS](https://github.com/sheagcraig/python-jss) - Library that allows administrators to interact with a JSS using Python. Included with JSSImporter.
 
 ## Client-side management: utilities
 
@@ -64,7 +64,8 @@ Table of Contents
 
 ## Client-side management: libraries and modules
 
-* [gpymacutil](https://github.com/google/macops) - Vast library of Python modules and tools for client management.
+* [gpymacutil](https://github.com/google/macops) - Vast library of Python modules and tools for client management developed by Google.
+* [Facebook IT-CPE](https://github.com/facebook/IT-CPE) - A suite of tools that Facebook uses to manage their fleet of over 10,000 client machines.
 * [U. of Utah Marriott Library Management Tools](https://github.com/univ-of-utah-marriott-library-apple/management_tools) - Python module for client management.
 * [pyfacts](https://github.com/chilcote/pyfacts) - Returns various 'facts' about a Mac.
 * [SavingThrow](https://github.com/sheagcraig/SavingThrow) - Returns information on whether a Mac has adware/malware installed, and includes an option for automatic removal.
@@ -77,18 +78,14 @@ Table of Contents
 * Xcode Cocoa-Python Templates - Xcode templates for Cocoa-Python development: [Xcode 6](https://github.com/gregneagle/Xcode6CocoaPythonTemplates), [Xcode 5](https://github.com/gregneagle/Xcode5CocoaPythonTemplates), [Xcode 4](https://github.com/gregneagle/Xcode4CocoaPythonTemplates).
 * [pyMacWarranty](https://github.com/pudquick/pyMacWarranty) - Retrieve warranty information given a Mac's serial number, estimates of manufacture date info and more.
 * [pyMASreceipt](https://github.com/pudquick/pyMASreceipt) - Module for parsing Mac App Store receipts files.
-* [JSSRecipeCreator](https://github.com/sheagcraig/JSSRecipeCreator) - Tool that enables Casper administrators to quickly create JSSImporter-compatbile AutoPkg recipes.
-* [mkcast](https://github.com/KeyboardFire/mkcast) - A tool for creating GIF screencasts of a terminal, with key presses overlaid.
+* [Python-JSS](https://github.com/sheagcraig/python-jss) - Library that allows administrators to interact with a JSS using Python. Included with JSSImporter.
 * [edify](https://github.com/chilcote/edify) - Stores a customizable library of command line syntax examples, with short descriptions.
-* [SnapPass](https://github.com/pinterest/snappass) - A Python-based web app that lets you share passwords securely.
 
 ## Scripts and gists
 
 * [Hannes Juutilainen](https://github.com/hjuutilainen/adminscripts) - Collection of client attributes, client management and meta-packaging admin tasks
 * [Graham Gilbert](https://github.com/grahamgilbert/macscripts) - Client management, Munki, Puppet server automation
 * [Michael Lynn](https://gist.github.com/pudquick) - Many small scripts and modules demonstrating the use of PyObjC and ctypes for native use of OS X system frameworks within Python.
-* [Google MacOps](https://github.com/google/macops) - Google's utilities, tools, and scripts for managing and tracking a fleet of Macs in a corporate environment.
-* [Facebook IT-CPE](https://github.com/facebook/IT-CPE) - A suite of tools that Facebook uses to manage their fleet of over 10,000 client machines.
 
 ## Configuration management
 * [salt-osx](https://github.com/mosen/salt-osx) - SaltStack grains, modules, and states to manage OS X, largely using PyObjC and ctypes.
