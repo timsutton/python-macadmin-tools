@@ -1,10 +1,10 @@
 # Python Macadmin Tools
 
-This repository aims to collect a list of open-source Python-based tools for Mac systems administration, roughly sorted into categories, in the spirit of R.I. Pienaar's [free-for-dev](https://github.com/ripienaar/free-for-dev) repo.
+This repository aims to collect a list of open-source Python-based tools for Mac systems administration, roughly sorted into categories.
 
-Python is a popular language among Mac sysadmins, and so this list is limited to projects using Python. This is partly so that those learning Python for Mac-specific tasks have a mostly-complete list of known code and approaches from which to learn. It's also to help those  more experienced with Python to discover projects that they may be able to adapt, extend and/or contribute to.
+Why is this list limited to Python? Why not include all projects in this space? Python is an especially popular language among Mac sysadmins, and so this limit is partly so that those learning Python for Mac-specific tasks have a mostly-complete list of known code and approaches from which to learn. It's also to help those  more experienced with Python to discover projects that they may be able to adapt, extend and/or contribute to.
 
-See something missing or incorrect? Please feel free to edit/clone this file and [submit a pull request](https://github.com/timsutton/python-macadmin-tools/pulls).
+See something missing or incorrect? Please feel free to edit/clone this file and [submit a pull request](https://github.com/timsutton/python-macadmin-tools/pulls). This repo was inspired by R.I. Pienaar's popular [free-for-dev](https://github.com/ripienaar/free-for-dev) repo.
 
 Table of Contents
 =================
@@ -36,10 +36,10 @@ Table of Contents
 * [AutoDMG](https://github.com/MagerValp/AutoDMG) - Mac app to create never-booted, restorable OS X system images, optionally with system updates and additional packages/applications.
 * [CreateUserPkg](https://github.com/MagerValp/CreateUserPkg) - Mac app to create a package that installs or updates a user on an OS X system.
 * [createOSXInstallPkg](https://github.com/munki/createOSXInstallPkg) - Tool for converting an OS X installer app/ESD to a package that can trigger the OS X install on the next boot, optionally with additional packages added in the install.
-* [AutoPkg](https://github.com/autopkg/autopkg) - Tool and community for automating common deployment tasks: discovering new application updates, preparing them for deployment, importing into popular management platforms.
+* [AutoPkg](https://github.com/autopkg/autopkg) - Tool and community for automating common deployment tasks using sharable 'recipes', for example: discovering new application updates, preparing them for deployment, importing into popular management platforms.
 * [vfuse](https://github.com/chilcote/vfuse) - Tool for converting an OS X system DMG to a VMware Fusion VM.
 * [stew](https://github.com/chilcote/stew) - Creation of never-booted, restorable OS X system images with additional packages.
-* [AutoNBI](https://bitbucket.org/bruienne/AutoNBI) - Tool for automated creation of Netboot image bundles using System Image Utility's automation tools.
+* [AutoNBI](https://bitbucket.org/bruienne/autonbi) - Tool for automated creation of Netboot image bundles using System Image Utility's automation tools.
 * [Brigadier](https://github.com/timsutton/brigadier) - Tool for fetch and install model-specific Boot Camp images, can be used to bootstrap drivers during Windows deployment.
 * [aamporter](https://github.com/timsutton/aamporter) - Tool for automating the download and importing of Adobe CS/CC updates into Munki.
 * [can_haz_image](https://github.com/google/macops) - Tool for creating never-booted OS X system images with additional packages.
@@ -48,7 +48,7 @@ Table of Contents
 ## Client-side management: utilities
 
 * [dockutil](https://github.com/kcrawford/dockutil) - Programmatic access to a user's dock.
-* [outset](https://github.com/chilcote/outset) - Script and launchd combo for executing arbitrary scripts after logins and startup (??).
+* [outset](https://github.com/chilcote/outset) - Script and launchd combo for executing admin-defined scripts after logins and startup.
 * [crankd](https://github.com/google/macops) - Tool for configuring hooks that fire under certain system configuration state changes.
 * [customdisplayprofiles](https://github.com/timsutton/customdisplayprofiles) - Programmatic configuration of display ColorSync profiles.
 * [Privacy Services Manager](https://github.com/univ-of-utah-marriott-library-apple/privacy_services_manager) - Programmatic access to privacy, location, etc. services via direct manipulation of the TCC database.
@@ -64,14 +64,17 @@ Table of Contents
 
 ## Misc. utilities and modules
 * [mcxToProfile](https://github.com/timsutton/mcxToProfile) - Convert preference plists and MCX nodes to Configuration Profiles for OS X management.
+* Xcode Cocoa-Python Templates - Xcode templates for Cocoa-Python development: [Xcode 6](https://github.com/gregneagle/Xcode6CocoaPythonTemplates), [Xcode 5](https://github.com/gregneagle/Xcode5CocoaPythonTemplates), [Xcode 4](https://github.com/gregneagle/Xcode4CocoaPythonTemplates).
 * [pyMacWarranty](https://github.com/pudquick/pyMacWarranty) - Retrieve warranty information given a Mac's serial number, estimates of manufacture date info and more.
 * [pyMASreceipt](https://github.com/pudquick/pyMASreceipt) - Module for parsing a Mac App Store `_MASReceipt` file.
 
 ## Scripts and gists
 
 * [Hannes Juutilainen](https://github.com/hjuutilainen/adminscripts) - Collection of client attributes, client management and meta-packaging admin tasks
-* [Graham Gilbert](https://github.com/grahamgilbert/macscripts)
+* [Graham Gilbert](https://github.com/grahamgilbert/macscripts) - Client management, Munki, Puppet server automation
 * [Michael Lynn](https://gist.github.com/pudquick) - Many small scripts and modules demonstrating the use of PyObjC and ctypes for native use of OS X system frameworks within Python.
+
+
 
 ## Configuration management
 * [salt-osx](https://github.com/mosen/salt-osx) - SaltStack grains, modules, and states to manage OS X, largely using PyObjC and ctypes.
