@@ -1,8 +1,8 @@
 # Python Macadmin Tools
 
-This repository aims to collect a list of open-source Python-based tools for Mac systems administration, roughly sorted into categories.
+This repository aims to collect a list of open-source Python-based tools for Mac systems administration tasks.
 
-Why is this list limited to Python? Why not include all projects in this space? Python is an especially popular language among Mac sysadmins, and so this limit is partly so that those learning Python for Mac-specific tasks have a mostly-complete list of known code and approaches from which to learn. It's also to help those  more experienced with Python to discover projects that they may be able to adapt, extend and/or contribute to.
+Why is this list limited to Python? Why not include all projects in this space? Python is an especially popular language among Mac sysadmins; this restriction is partly so that those learning Python for Mac-specific tasks have a mostly-complete list of known code and approaches from which to learn. It's also to help those more experienced with Python to discover projects that they may be able to adapt, extend and/or contribute to.
 
 See something missing or incorrect? Please feel free to edit/clone this file and [submit a pull request](https://github.com/timsutton/python-macadmin-tools/pulls). This repo was inspired by R.I. Pienaar's popular [free-for-dev](https://github.com/ripienaar/free-for-dev) repo.
 
@@ -25,7 +25,7 @@ Table of Contents
 * [Simian](https://github.com/google/simian) - Custom Munki service based on GAE, by Google.
 
 ## Servers
-* [Reposado](https://github.com/wdas/reposado) - Replacement for Apple's Software Update Service, supports multiple 'branches' of catalogs.
+* [Reposado](https://github.com/wdas/reposado) - Replacement for Apple's Software Update Service, supports multiple 'branches' of catalogs and offering cached updates no longer offered by Apple.
 * [Margarita](https://github.com/jessepeterson/margarita) - Flask-based web interface for Reposado. 
 * [bsdpy](https://bitbucket.org/bruienne/bsdpy) - BSDP server with support for multiple netboot images, model/MAC filtering and an API.
 * [pybsdpy](https://github.com/cabal95/pybsdp) - Another BSDP server.
@@ -33,8 +33,8 @@ Table of Contents
 * [Macnamer](https://github.com/grahamgilbert/macnamer) - Django-based solution for managing Mac computer names.
 
 ## Deployment automation, imaging, packaging
-* [AutoDMG](https://github.com/MagerValp/AutoDMG) - Mac app to create never-booted, restorable OS X system images, optionally with system updates and additional packages/applications.
-* [CreateUserPkg](https://github.com/MagerValp/CreateUserPkg) - Mac app to create a package that installs or updates a user on an OS X system.
+* [AutoDMG](https://github.com/MagerValp/AutoDMG) - Mac app to create never-booted, restorable OS X system images, optionally with system updates and additional packages/applications, built with PyObjC.
+* [CreateUserPkg](https://github.com/MagerValp/CreateUserPkg) - Mac app to create a package that installs or updates a user on an OS X system, built with PyObjC.
 * [createOSXInstallPkg](https://github.com/munki/createOSXInstallPkg) - Tool for converting an OS X installer app/ESD to a package that can trigger the OS X install on the next boot, optionally with additional packages added in the install.
 * [AutoPkg](https://github.com/autopkg/autopkg) - Tool and community for automating common deployment tasks using sharable 'recipes', for example: discovering new application updates, preparing them for deployment, importing into popular management platforms.
 * [vfuse](https://github.com/chilcote/vfuse) - Tool for converting an OS X system DMG to a VMware Fusion VM.
