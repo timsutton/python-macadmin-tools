@@ -25,14 +25,16 @@ Table of Contents
 * [Simian](https://github.com/google/simian) - Custom Munki service based on GAE, by Google.
 
 ## Servers
+
 * [Reposado](https://github.com/wdas/reposado) - Replacement for Apple's Software Update Service, supports multiple 'branches' of catalogs and offering cached updates no longer offered by Apple.
-* [Margarita](https://github.com/jessepeterson/margarita) - Flask-based web interface for Reposado. 
+* [Margarita](https://github.com/jessepeterson/margarita) - Flask-based web interface for Reposado.
 * [bsdpy](https://bitbucket.org/bruienne/bsdpy) - BSDP server with support for multiple netboot images, model/MAC filtering and an API.
 * [pybsdpy](https://github.com/cabal95/pybsdp) - Another BSDP server.
 * [Crypt](https://github.com/grahamgilbert/Crypt) - Client and server for a Django-based Filevault key escrow solution.
 * [Macnamer](https://github.com/grahamgilbert/macnamer) - Django-based solution for managing Mac computer names.
 
 ## Deployment automation, imaging, packaging
+
 * [AutoDMG](https://github.com/MagerValp/AutoDMG) - Mac app to create never-booted, restorable OS X system images, optionally with system updates and additional packages/applications, built with PyObjC.
 * [CreateUserPkg](https://github.com/MagerValp/CreateUserPkg) - Mac app to create a package that installs or updates a user on an OS X system, built with PyObjC.
 * [createOSXInstallPkg](https://github.com/munki/createOSXInstallPkg) - Tool for converting an OS X installer app/ESD to a package that can trigger the OS X install on the next boot, optionally with additional packages added in the install.
@@ -58,11 +60,13 @@ Table of Contents
 * [LoginLog](https://github.com/MagerValp/LoginLog) - Cocoa/PyObjC app that display a log of your choice over the loginwindow, useful during deployment tasks.
 
 ## Client-side management: libraries and modules
+
 * [gpymacutil](https://github.com/google/macops) - Vast library of Python modules and tools for client management.
 * [U. of Utah Marriott Library Management Tools](https://github.com/univ-of-utah-marriott-library-apple/management_tools) - Python module for client management.
 * [pyfacts](https://github.com/chilcote/pyfacts) - Returns various 'facts' about a Mac.
 
 ## Misc. utilities and modules
+
 * [mcxToProfile](https://github.com/timsutton/mcxToProfile) - Convert preference plists and MCX nodes to Configuration Profiles for OS X management.
 * Xcode Cocoa-Python Templates - Xcode templates for Cocoa-Python development: [Xcode 6](https://github.com/gregneagle/Xcode6CocoaPythonTemplates), [Xcode 5](https://github.com/gregneagle/Xcode5CocoaPythonTemplates), [Xcode 4](https://github.com/gregneagle/Xcode4CocoaPythonTemplates).
 * [pyMacWarranty](https://github.com/pudquick/pyMacWarranty) - Retrieve warranty information given a Mac's serial number, estimates of manufacture date info and more.
@@ -73,8 +77,6 @@ Table of Contents
 * [Hannes Juutilainen](https://github.com/hjuutilainen/adminscripts) - Collection of client attributes, client management and meta-packaging admin tasks
 * [Graham Gilbert](https://github.com/grahamgilbert/macscripts) - Client management, Munki, Puppet server automation
 * [Michael Lynn](https://gist.github.com/pudquick) - Many small scripts and modules demonstrating the use of PyObjC and ctypes for native use of OS X system frameworks within Python.
-
-
 
 ## Configuration management
 * [salt-osx](https://github.com/mosen/salt-osx) - SaltStack grains, modules, and states to manage OS X, largely using PyObjC and ctypes.
