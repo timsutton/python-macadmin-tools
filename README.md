@@ -53,7 +53,6 @@ Table of Contents
 
 ## Client-side management: utilities
 
-* [crankd](https://github.com/google/macops) - Tool for configuring hooks that fire under certain system configuration state changes.
 * [customdisplayprofiles](https://github.com/timsutton/customdisplayprofiles) - Programmatic configuration of display ColorSync profiles.
 * [dockutil](https://github.com/kcrawford/dockutil) - Programmatic access to a user's dock.
 * [LoginLog](https://github.com/MagerValp/LoginLog) - Cocoa/PyObjC app that display a log of your choice over the loginwindow, useful during deployment tasks.
@@ -70,6 +69,7 @@ Table of Contents
 * [MacModelShelf](https://github.com/MagerValp/MacModelShelf) - Returns human-readable Mac model names when given a serial number or model code.
 * [OSXcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X, developed by Yelp.
 * [pyfacts](https://github.com/chilcote/pyfacts) - Returns various 'facts' about a Mac.
+* [PyMacAdmin and crankd](https://github.com/nigelkersten/pymacadmin) - Collection of Python utilities for interfacing to directory services and system configuration state changes, Leopard-era, developed at Google.
 * [SavingThrow](https://github.com/sheagcraig/SavingThrow) - Returns information on whether a Mac has adware/malware installed, and includes an option for automatic removal.
 * [U. of Utah Marriott Library Management Tools](https://github.com/univ-of-utah-marriott-library-apple/management_tools) - Python module for client management.
 
