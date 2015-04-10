@@ -16,7 +16,7 @@ Table of Contents
 * [Client-side management: libraries and modules](#client-side-management-libraries-and-modules)
 * [Misc. utilities and modules](#misc-utilities-and-modules)
 * [Scripts and gists](#scripts-and-gists)
-* [Configuration Management](#configuration-management)
+* [Configuration management](#configuration-management)
 
 ## Munki and ecosystem
 * [Munki project](https://github.com/munki/munki) - Managed software installations for Mac clients. Supports all popular software distribution formats.
@@ -46,6 +46,8 @@ Table of Contents
 * [aamporter](https://github.com/timsutton/aamporter) - Tool for automating the download and importing of Adobe CS/CC updates into Munki.
 * [can_haz_image](https://github.com/google/macops) - Tool for creating never-booted OS X system images with additional packages.
 * [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) - Convert a Configuration Profile to an installer package that can be installed to both booted and non-booted volumes.
+* [JSSImporter](https://github.com/sheagcraig/JSSImporter) - Framework for connecting AutoPkg to JSS, for administrators running JAMF's Casper Suite.
+* [Python-JSS](https://github.com/sheagcraig/python-jss) - Library that allows administrators to interact with a JSS using Python. Included with JSSImporter.
 
 ## Client-side management: utilities
 
@@ -58,12 +60,16 @@ Table of Contents
 * [PredicateInstaller](https://github.com/mkuron/PredicateInstaller) - Programmatic invocation of Software Update client tasks such as printer drivers, dictation voices, CLI tools, Boot Camp drivers, via the private SoftwareUpdate framework.
 * [pyLoginItems](https://github.com/pudquick/pyLoginItems) - Management of a user's login items list via PyObjC.
 * [LoginLog](https://github.com/MagerValp/LoginLog) - Cocoa/PyObjC app that display a log of your choice over the loginwindow, useful during deployment tasks.
+* [TweetCatalogUpdates](https://github.com/binkleybloom/tweetCatalogUpdates) - Python script that watches for catalog changes in your munki respository, and tweets them.
 
 ## Client-side management: libraries and modules
 
 * [gpymacutil](https://github.com/google/macops) - Vast library of Python modules and tools for client management.
 * [U. of Utah Marriott Library Management Tools](https://github.com/univ-of-utah-marriott-library-apple/management_tools) - Python module for client management.
 * [pyfacts](https://github.com/chilcote/pyfacts) - Returns various 'facts' about a Mac.
+* [SavingThrow](https://github.com/sheagcraig/SavingThrow) - Returns information on whether a Mac has adware/malware installed, and includes an option for automatic removal.
+* [MacModelShelf](https://github.com/MagerValp/MacModelShelf) - Returns human-readable Mac model names when given a serial number or model code.
+* [OSXcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X, developed by Yelp.
 
 ## Misc. utilities and modules
 
@@ -71,12 +77,18 @@ Table of Contents
 * Xcode Cocoa-Python Templates - Xcode templates for Cocoa-Python development: [Xcode 6](https://github.com/gregneagle/Xcode6CocoaPythonTemplates), [Xcode 5](https://github.com/gregneagle/Xcode5CocoaPythonTemplates), [Xcode 4](https://github.com/gregneagle/Xcode4CocoaPythonTemplates).
 * [pyMacWarranty](https://github.com/pudquick/pyMacWarranty) - Retrieve warranty information given a Mac's serial number, estimates of manufacture date info and more.
 * [pyMASreceipt](https://github.com/pudquick/pyMASreceipt) - Module for parsing Mac App Store receipts files.
+* [JSSRecipeCreator](https://github.com/sheagcraig/JSSRecipeCreator) - Tool that enables Casper administrators to quickly create JSSImporter-compatbile AutoPkg recipes.
+* [mkcast](https://github.com/KeyboardFire/mkcast) - A tool for creating GIF screencasts of a terminal, with key presses overlaid.
+* [edify](https://github.com/chilcote/edify) - Stores a customizable library of command line syntax examples, with short descriptions.
+* [SnapPass](https://github.com/pinterest/snappass) - A Python-based web app that lets you share passwords securely.
 
 ## Scripts and gists
 
 * [Hannes Juutilainen](https://github.com/hjuutilainen/adminscripts) - Collection of client attributes, client management and meta-packaging admin tasks
 * [Graham Gilbert](https://github.com/grahamgilbert/macscripts) - Client management, Munki, Puppet server automation
 * [Michael Lynn](https://gist.github.com/pudquick) - Many small scripts and modules demonstrating the use of PyObjC and ctypes for native use of OS X system frameworks within Python.
+* [Google MacOps](https://github.com/google/macops) - Google's utilities, tools, and scripts for managing and tracking a fleet of Macs in a corporate environment.
+* [Facebook IT-CPE](https://github.com/facebook/IT-CPE) - A suite of tools that Facebook uses to manage their fleet of over 10,000 client machines.
 
 ## Configuration management
 * [salt-osx](https://github.com/mosen/salt-osx) - SaltStack grains, modules, and states to manage OS X, largely using PyObjC and ctypes.
