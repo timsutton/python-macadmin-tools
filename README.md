@@ -45,6 +45,7 @@ Table of Contents
 * [can_haz_image](https://github.com/google/macops) - Tool for creating never-booted OS X system images with additional packages.
 * [createOSXInstallPkg](https://github.com/munki/createOSXInstallPkg) - Tool for converting an OS X installer app/ESD to a package that can trigger the OS X install on the next boot, optionally with additional packages added in the install.
 * [CreateUserPkg](https://github.com/MagerValp/CreateUserPkg) - Mac app to create a package that installs or updates a user on an OS X system, built with PyObjC.
+* [Imagr](https://github.com/grahamgilbert/imagr) - Mac app that performs imaging and deployment workflows fetched from a remote server, built with PyObjC.
 * [JSSImporter](https://github.com/sheagcraig/JSSImporter) - Framework for connecting AutoPkg to JSS, for administrators running JAMF's Casper Suite.
 * [JSSRecipeCreator](https://github.com/sheagcraig/JSSRecipeCreator) - Tool that enables Casper administrators to quickly create JSSImporter-compatbile AutoPkg recipes.
 * [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) - Convert a Configuration Profile to an installer package that can be installed to both booted and non-booted volumes.
