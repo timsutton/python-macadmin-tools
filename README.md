@@ -22,6 +22,7 @@ Table of Contents
 * [Munki project](https://github.com/munki/munki) - Managed software installations for Mac clients. Supports all popular software distribution formats.
 * [MunkiWebAdmin](https://github.com/munki/munkiwebadmin) - A Django-based reporting app for Munki - support for licensing, manifest editing.
 * [munki-trello](https://github.com/pebbleit/munki-trello) - A script that utilises a Trello board to manage the promotion of Munki items through development to testing to production catalogs.
+* [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) - Generate specific 'nopkg' pkginfos for printer configurations.
 * [Sal](https://github.com/salsoftware/sal) - Another Django-based reporting app for Munki, integrates with Facter facts on clients.
 * [Simian](https://github.com/google/simian) - Custom Munki service based on GAE, by Google.
 * [TweetCatalogUpdates](https://github.com/binkleybloom/tweetCatalogUpdates) - Python script that watches for catalog changes in your munki respository, and tweets them.
@@ -47,9 +48,11 @@ Table of Contents
 * [CreateUserPkg](https://github.com/MagerValp/CreateUserPkg) - Mac app to create a package that installs or updates a user on an OS X system, built with PyObjC.
 * [first-boot-pkg](https://github.com/grahamgilbert/first-boot-pkg) - Tool for creating a single package that installs a series of packages automatically upon first boot.
 * [Imagr](https://github.com/grahamgilbert/imagr) - Mac app that performs imaging and deployment workflows fetched from a remote server, built with PyObjC.
+* [ImagrConfigCreator](https://github.com/nmcspadden/ImagrConfigCreator) - Interactive script for generating or editing Imagr workflow plists.
 * [JSSImporter](https://github.com/sheagcraig/JSSImporter) - Framework for connecting AutoPkg to JSS, for administrators running JAMF's Casper Suite.
 * [JSSRecipeCreator](https://github.com/sheagcraig/JSSRecipeCreator) - Tool that enables Casper administrators to quickly create JSSImporter-compatbile AutoPkg recipes.
 * [MacNamer](https://github.com/grahamgilbert/macnamer) - Combination of a Django web app and a companion script to run on client Macs for automatically setting computer names.
+* [make-adobe-cc-license-pkg](https://github.com/timsutton/make-adobe-cc-license-pkg) - Tool for building packages and Munki pkginfos for CC for Teams device and Enterprise serial licenses.
 * [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) - Convert a Configuration Profile to an installer package that can be installed to both booted and non-booted volumes.
 * [stew](https://github.com/chilcote/stew) - Creation of never-booted, restorable OS X system images with additional packages.
 * [vfuse](https://github.com/chilcote/vfuse) - Tool for converting an OS X system DMG to a VMware Fusion VM.
@@ -61,6 +64,7 @@ Table of Contents
 * [LoginLog](https://github.com/MagerValp/LoginLog) - Cocoa/PyObjC app that display a log of your choice over the loginwindow, useful during deployment tasks.
 * [NCUtil](https://github.com/jacobsalmela/NCutil) - Programmatic access to Notification Center via direct manipulation of the NC database.
 * [outset](https://github.com/chilcote/outset) - Script and launchd combo for executing admin-defined scripts after logins and startup.
+* [OutsetDockProfiler](https://github.com/nmcspadden/OutsetDockProfiler) - Script that creates a package to use with Outset that will install a user-level profile for a specific user of your choice.
 * [PredicateInstaller](https://github.com/mkuron/PredicateInstaller) - Programmatic invocation of Software Update client tasks such as printer drivers, dictation voices, CLI tools, Boot Camp drivers, via the private SoftwareUpdate framework.
 * [Privacy Services Manager](https://github.com/univ-of-utah-marriott-library-apple/privacy_services_manager) - Programmatic access to privacy, location, etc. services via direct manipulation of the TCC database.
 * [pyLoginItems](https://github.com/pudquick/pyLoginItems) - Management of a user's login items list via PyObjC.
