@@ -48,6 +48,7 @@ Table of Contents
 * [CreateUserPkg](https://github.com/MagerValp/CreateUserPkg) - Mac app to create a package that installs or updates a user on an OS X system, built with PyObjC.
 * [first-boot-pkg](https://github.com/grahamgilbert/first-boot-pkg) - Tool for creating a single package that installs a series of packages automatically upon first boot.
 * [Imagr](https://github.com/grahamgilbert/imagr) - Mac app that performs imaging and deployment workflows fetched from a remote server, built with PyObjC.
+* [Imagr Server](https://github.com/grahamgilbert/imagr_server) - Imagr reporting server built on Django.
 * [ImagrConfigCreator](https://github.com/nmcspadden/ImagrConfigCreator) - Interactive script for generating or editing Imagr workflow plists.
 * [JSSImporter](https://github.com/sheagcraig/JSSImporter) - Framework for connecting AutoPkg to JSS, for administrators running JAMF's Casper Suite.
 * [JSSRecipeCreator](https://github.com/sheagcraig/JSSRecipeCreator) - Tool that enables Casper administrators to quickly create JSSImporter-compatbile AutoPkg recipes.
