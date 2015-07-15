@@ -19,7 +19,9 @@ Table of Contents
 * [Configuration management](#configuration-management)
 
 ## Munki and ecosystem
+* [autopromoter](https://github.com/jessepeterson/autopromoter) - Automatically promote (or demote) Munki pkginfo catalogs.
 * [Munki project](https://github.com/munki/munki) - Managed software installations for Mac clients. Supports all popular software distribution formats.
+* [Munki Promote](https://github.com/joshua-d-miller/munki-promote) - Another script for promoting items from one catalog to another.
 * [MunkiWebAdmin](https://github.com/munki/munkiwebadmin) - A Django-based reporting app for Munki - support for licensing, manifest editing.
 * [munki-trello](https://github.com/pebbleit/munki-trello) - A script that utilises a Trello board to manage the promotion of Munki items through development to testing to production catalogs.
 * [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) - Generate specific 'nopkg' pkginfos for printer configurations.
