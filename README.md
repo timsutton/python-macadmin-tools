@@ -14,6 +14,7 @@ Table of Contents
 * [Deployment automation, imaging, packaging](#deployment-automation-imaging-packaging)
 * [Client-side management: utilities](#client-side-management-utilities)
 * [Client-side management: libraries and modules](#client-side-management-libraries-and-modules)
+* [Mobile Device Management (MDM)](#mobile-device-management-mdm)
 * [Misc. utilities and modules](#misc-utilities-and-modules)
 * [Scripts and gists](#scripts-and-gists)
 * [Configuration management](#configuration-management)
@@ -57,6 +58,7 @@ Table of Contents
 * [MacNamer](https://github.com/grahamgilbert/macnamer) - Combination of a Django web app and a companion script to run on client Macs for automatically setting computer names.
 * [make-adobe-cc-license-pkg](https://github.com/timsutton/make-adobe-cc-license-pkg) - Tool for building packages and Munki pkginfos for CC for Teams device and Enterprise serial licenses.
 * [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) - Convert a Configuration Profile to an installer package that can be installed to both booted and non-booted volumes.
+* [munkipkg](https://github.com/munki/munki-pkg) - Tool for building packages in a consistent, repeatable manner from source files and scripts in a project directory.
 * [stew](https://github.com/chilcote/stew) - Creation of never-booted, restorable OS X system images with additional packages.
 * [vfuse](https://github.com/chilcote/vfuse) - Tool for converting an OS X system DMG to a VMware Fusion VM.
 
@@ -82,6 +84,10 @@ Table of Contents
 * [PyMacAdmin and crankd](https://github.com/nigelkersten/pymacadmin) - Collection of Python utilities for interfacing to directory services and system configuration state changes, Leopard-era, developed at Google.
 * [SavingThrow](https://github.com/sheagcraig/SavingThrow) - Returns information on whether a Mac has adware/malware installed, and includes an option for automatic removal.
 * [U. of Utah Marriott Library Management Tools](https://github.com/univ-of-utah-marriott-library-apple/management_tools) - Python module for client management.
+
+## Mobile Device Management (MDM)
+
+* [Commandment](https://github.com/jessepeterson/commandment) - MDM server with support for managing iOS and OS X devices implemented in Python.
 
 ## Misc. utilities and modules
 
