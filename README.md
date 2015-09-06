@@ -9,7 +9,8 @@ See something missing or incorrect? Please feel free to [edit](https://github.co
 Table of Contents
 =================
 
-* [Munki and ecosystem](#munki-and-ecosystem)
+* [Munki](#munki)
+* [Imagr](#imagr)
 * [Servers](#servers)
 * [Deployment automation, imaging, packaging](#deployment-automation-imaging-packaging)
 * [Client-side management: utilities](#client-side-management-utilities)
@@ -19,9 +20,9 @@ Table of Contents
 * [Scripts and gists](#scripts-and-gists)
 * [Configuration management](#configuration-management)
 
-## Munki and ecosystem
+## Munki
 * [autopromoter](https://github.com/jessepeterson/autopromoter) - Automatically promote (or demote) Munki pkginfo catalogs.
-* [Munki project](https://github.com/munki/munki) - Managed software installations for Mac clients. Supports all popular software distribution formats.
+* [Munki project](https://github.com/munki/munki) - Managed software installations for Mac clients. Supports all popular software distribution formats. This is the de facto project repository.
 * [Munki Promote](https://github.com/joshua-d-miller/munki-promote) - Another script for promoting items from one catalog to another.
 * [MunkiWebAdmin](https://github.com/munki/munkiwebadmin) - A Django-based reporting app for Munki - support for licensing, manifest editing.
 * [munki-trello](https://github.com/pebbleit/munki-trello) - A script that utilises a Trello board to manage the promotion of Munki items through development to testing to production catalogs.
@@ -29,6 +30,12 @@ Table of Contents
 * [Sal](https://github.com/salsoftware/sal) - Another Django-based reporting app for Munki, integrates with Facter facts on clients.
 * [Simian](https://github.com/google/simian) - Custom Munki service based on GAE, by Google.
 * [TweetCatalogUpdates](https://github.com/binkleybloom/tweetCatalogUpdates) - Python script that watches for catalog changes in your munki respository, and tweets them.
+
+## Imagr
+
+* [Imagr](https://github.com/grahamgilbert/imagr) - Mac app that performs imaging and deployment workflows fetched from a remote server, built with PyObjC.
+* [Imagr Server](https://github.com/grahamgilbert/imagr_server) - Imagr reporting server built on Django.
+* [ImagrConfigCreator](https://github.com/nmcspadden/ImagrConfigCreator) - Interactive script for generating or editing Imagr workflow plists.
 
 ## Servers
 
@@ -50,9 +57,6 @@ Table of Contents
 * [createOSXInstallPkg](https://github.com/munki/createOSXInstallPkg) - Tool for converting an OS X installer app/ESD to a package that can trigger the OS X install on the next boot, optionally with additional packages added in the install.
 * [CreateUserPkg](https://github.com/MagerValp/CreateUserPkg) - Mac app to create a package that installs or updates a user on an OS X system, built with PyObjC.
 * [first-boot-pkg](https://github.com/grahamgilbert/first-boot-pkg) - Tool for creating a single package that installs a series of packages automatically upon first boot.
-* [Imagr](https://github.com/grahamgilbert/imagr) - Mac app that performs imaging and deployment workflows fetched from a remote server, built with PyObjC.
-* [Imagr Server](https://github.com/grahamgilbert/imagr_server) - Imagr reporting server built on Django.
-* [ImagrConfigCreator](https://github.com/nmcspadden/ImagrConfigCreator) - Interactive script for generating or editing Imagr workflow plists.
 * [JSSImporter](https://github.com/sheagcraig/JSSImporter) - Framework for connecting AutoPkg to JSS, for administrators running JAMF's Casper Suite.
 * [JSSRecipeCreator](https://github.com/sheagcraig/JSSRecipeCreator) - Tool that enables Casper administrators to quickly create JSSImporter-compatbile AutoPkg recipes.
 * [MacNamer](https://github.com/grahamgilbert/macnamer) - Combination of a Django web app and a companion script to run on client Macs for automatically setting computer names.
@@ -91,11 +95,14 @@ Table of Contents
 
 ## Misc. utilities and modules
 
+* [appleseed](https://github.com/chilcote/appleseed) - Automate downloading os x seed packages.
 * [edify](https://github.com/chilcote/edify) - Stores a customizable library of command line syntax examples, with short descriptions.
 * [mcxToProfile](https://github.com/timsutton/mcxToProfile) - Convert preference plists and MCX nodes to Configuration Profiles for OS X management.
 * [pyMacWarranty](https://github.com/pudquick/pyMacWarranty) - Retrieve warranty information given a Mac's serial number, estimates of manufacture date info and more.
 * [pyMASreceipt](https://github.com/pudquick/pyMASreceipt) - Module for parsing Mac App Store receipts files.
 * [Python-JSS](https://github.com/sheagcraig/python-jss) - Library that allows administrators to interact with a JSS using Python. Included with JSSImporter.
+* [vserv](https://github.com/chilcote/vserv) - Service to monitor one or more vmx path[s] and restart the vmx[s] if necessary.
+* [warranty](https://github.com/chilcote/warranty) - Another warranty information retrieval script.
 * Xcode Cocoa-Python Templates - Xcode templates for Cocoa-Python development: [Xcode 6](https://github.com/gregneagle/Xcode6CocoaPythonTemplates), [Xcode 5](https://github.com/gregneagle/Xcode5CocoaPythonTemplates), [Xcode 4](https://github.com/gregneagle/Xcode4CocoaPythonTemplates).
 
 ## Scripts and gists
