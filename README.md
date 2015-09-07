@@ -27,6 +27,7 @@ Table of Contents
 * [MunkiWebAdmin](https://github.com/munki/munkiwebadmin) - A Django-based reporting app for Munki - support for licensing, manifest editing.
 * [munki-trello](https://github.com/pebbleit/munki-trello) - A script that utilises a Trello board to manage the promotion of Munki items through development to testing to production catalogs.
 * [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) - Generate specific 'nopkg' pkginfos for printer configurations.
+* [printer-pkginfo](https://github.com/grahamgilbert/printer-pkginfo) - Another script for generating specific 'nopkg' pkginfos for printer configurations.
 * [Sal](https://github.com/salsoftware/sal) - Another Django-based reporting app for Munki, integrates with Facter facts on clients.
 * [Simian](https://github.com/google/simian) - Custom Munki service based on GAE, by Google.
 * [TweetCatalogUpdates](https://github.com/binkleybloom/tweetCatalogUpdates) - Python script that watches for catalog changes in your munki respository, and tweets them.
