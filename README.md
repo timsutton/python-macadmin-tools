@@ -67,6 +67,7 @@ Table of Contents
 * [make-adobe-cc-license-pkg](https://github.com/timsutton/make-adobe-cc-license-pkg) - Tool for building packages and Munki pkginfos for CC for Teams device and Enterprise serial licenses.
 * [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) - Convert a Configuration Profile to an installer package that can be installed to both booted and non-booted volumes.
 * [munkipkg](https://github.com/munki/munki-pkg) - Tool for building packages in a consistent, repeatable manner from source files and scripts in a project directory.
+* [Recipe Robot](https://github.com/homebysix/recipe-robot) - A Python script and companion Mac app that is able to automatically generate AutoPkg recipes.
 * [stew](https://github.com/chilcote/stew) - Creation of never-booted, restorable OS X system images with additional packages.
 * [vfuse](https://github.com/chilcote/vfuse) - Tool for converting an OS X system DMG to a VMware Fusion VM.
 
