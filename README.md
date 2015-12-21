@@ -110,6 +110,7 @@ Table of Contents
 * [vserv](https://github.com/chilcote/vserv) - Service to monitor one or more vmx path[s] and restart the vmx[s] if necessary.
 * [warranty](https://github.com/chilcote/warranty) - Another warranty information retrieval script.
 * Xcode Cocoa-Python Templates - Xcode templates for Cocoa-Python development: [Xcode 6](https://github.com/gregneagle/Xcode6CocoaPythonTemplates), [Xcode 5](https://github.com/gregneagle/Xcode5CocoaPythonTemplates), [Xcode 4](https://github.com/gregneagle/Xcode4CocoaPythonTemplates).
+* [py-gsxws](https://github.com/filipp/py-gsxws) - Library for communicating with Apple's GSX API
 
 ## Scripts and gists
 
