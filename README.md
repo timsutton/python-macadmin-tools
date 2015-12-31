@@ -111,6 +111,7 @@ Table of Contents
 * [warranty](https://github.com/chilcote/warranty) - Another warranty information retrieval script.
 * Xcode Cocoa-Python Templates - Xcode templates for Cocoa-Python development: [Xcode 6](https://github.com/gregneagle/Xcode6CocoaPythonTemplates), [Xcode 5](https://github.com/gregneagle/Xcode5CocoaPythonTemplates), [Xcode 4](https://github.com/gregneagle/Xcode4CocoaPythonTemplates).
 * [py-gsxws](https://github.com/filipp/py-gsxws) - Library for communicating with Apple's GSX API
+* [SimplePySSH](https://github.com/robperc/SimplePySSH) - Module for executing and reading output from simple shell commands on remote machines via SSH using only built-in modules.
 
 ## Scripts and gists
 
