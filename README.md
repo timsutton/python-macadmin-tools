@@ -21,6 +21,7 @@ Table of Contents
 * [Configuration management](#configuration-management)
 
 ## Munki
+
 * [autopromoter](https://github.com/jessepeterson/autopromoter) - Automatically promote (or demote) Munki pkginfo catalogs.
 * [BananaPeels](https://github.com/robperc/BananaPeels) - A framework for testing the deployement of packages via Munki wrapped in a CLI tool. Requires VMWare Fusion.
 * [MunkiModulePackager](https://github.com/robperc/MunkiModulePackager) - CLI tool for downloading and packaging PyPi module sources for distribution via Munki.
@@ -67,6 +68,7 @@ Table of Contents
 * [make-adobe-cc-license-pkg](https://github.com/timsutton/make-adobe-cc-license-pkg) - Tool for building packages and Munki pkginfos for CC for Teams device and Enterprise serial licenses.
 * [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) - Convert a Configuration Profile to an installer package that can be installed to both booted and non-booted volumes.
 * [munkipkg](https://github.com/munki/munki-pkg) - Tool for building packages in a consistent, repeatable manner from source files and scripts in a project directory.
+* [quickpkg](https://github.com/scriptingosx/quickpkg) - Quickly and easily builds a one-off package from an installed application, a disk image, or a zip file.
 * [Recipe Robot](https://github.com/homebysix/recipe-robot) - A Python script and companion Mac app that is able to automatically generate AutoPkg recipes.
 * [stew](https://github.com/chilcote/stew) - Creation of never-booted, restorable OS X system images with additional packages.
 * [vfuse](https://github.com/chilcote/vfuse) - Tool for converting an OS X system DMG to a VMware Fusion VM.
@@ -75,7 +77,6 @@ Table of Contents
 
 * [customdisplayprofiles](https://github.com/timsutton/customdisplayprofiles) - Programmatic configuration of display ColorSync profiles.
 * [dockutil](https://github.com/kcrawford/dockutil) - Programmatic access to a user's dock.
-* [Extinguish](https://github.com/arubdesu/Extinguish) - Generates profiles that disable Sparkle updates for specified apps.
 * [LoginLog](https://github.com/MagerValp/LoginLog) - Cocoa/PyObjC app that display a log of your choice over the loginwindow, useful during deployment tasks.
 * [NCUtil](https://github.com/jacobsalmela/NCutil) - Programmatic access to Notification Center via direct manipulation of the NC database.
 * [outset](https://github.com/chilcote/outset) - Script and launchd combo for executing admin-defined scripts after logins and startup.
@@ -83,7 +84,7 @@ Table of Contents
 * [PredicateInstaller](https://github.com/mkuron/PredicateInstaller) - Programmatic invocation of Software Update client tasks such as printer drivers, dictation voices, CLI tools, Boot Camp drivers, via the private SoftwareUpdate framework.
 * [Privacy Services Manager](https://github.com/univ-of-utah-marriott-library-apple/privacy_services_manager) - Programmatic access to privacy, location, etc. services via direct manipulation of the TCC database.
 * [pyLoginItems](https://github.com/pudquick/pyLoginItems) - Management of a user's login items list via PyObjC.
-* [SafariBookmarkEditor](https://github.com/robperc/SafariBookmarkEditor) - CLI tool for adding and removing Safari bookmarks in the context of the currently logged in user. 
+* [SafariBookmarkEditor](https://github.com/robperc/SafariBookmarkEditor) - CLI tool for adding and removing Safari bookmarks in the context of the currently logged in user.
 
 ## Client-side management: libraries and modules
 
@@ -95,6 +96,7 @@ Table of Contents
 * [PyMacAdmin and crankd](https://github.com/nigelkersten/pymacadmin) - Collection of Python utilities for interfacing to directory services and system configuration state changes, Leopard-era, developed at Google.
 * [SavingThrow](https://github.com/sheagcraig/SavingThrow) - Returns information on whether a Mac has adware/malware installed, and includes an option for automatic removal.
 * [U. of Utah Marriott Library Management Tools](https://github.com/univ-of-utah-marriott-library-apple/management_tools) - Python module for client management.
+* [Zentral](https://github.com/zentralopensource/zentral) - Framework that allows administrators to configure automatic actions based on changes detected by [osquery](https://osquery.io/).
 
 ## Mobile Device Management (MDM)
 
@@ -104,6 +106,8 @@ Table of Contents
 
 * [appleseed](https://github.com/chilcote/appleseed) - Automate downloading os x seed packages.
 * [edify](https://github.com/chilcote/edify) - Stores a customizable library of command line syntax examples, with short descriptions.
+* [JSS Import](https://github.com/nmcspadden/JSSImport) - Pulls data from Casper 9 to a Postgres database for purpose of importing into WebHelpDesk. (Not to be confused with [JSSImporter](https://github.com/sheagcraig/JSSImporter).)
+* [JSS Asset Tag Importer](https://github.com/bradschm/jss-assettag-importer) - Allows Casper administrators to quickly import asset tags into their JSS inventory.
 * [mcxToProfile](https://github.com/timsutton/mcxToProfile) - Convert preference plists and MCX nodes to Configuration Profiles for OS X management.
 * [pyMacWarranty](https://github.com/pudquick/pyMacWarranty) - Retrieve warranty information given a Mac's serial number, estimates of manufacture date info and more.
 * [pyMASreceipt](https://github.com/pudquick/pyMASreceipt) - Module for parsing Mac App Store receipts files.
@@ -121,4 +125,5 @@ Table of Contents
 * [Michael Lynn](https://gist.github.com/pudquick) - Many small scripts and modules demonstrating the use of PyObjC and ctypes for native use of OS X system frameworks within Python.
 
 ## Configuration management
+
 * [salt-osx](https://github.com/mosen/salt-osx) - SaltStack grains, modules, and states to manage OS X, largely using PyObjC and ctypes.
