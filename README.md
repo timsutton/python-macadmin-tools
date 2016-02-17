@@ -77,6 +77,7 @@ Table of Contents
 
 * [customdisplayprofiles](https://github.com/timsutton/customdisplayprofiles) - Programmatic configuration of display ColorSync profiles.
 * [dockutil](https://github.com/kcrawford/dockutil) - Programmatic access to a user's dock.
+* [Extinguish](https://github.com/arubdesu/Extinguish) - Generates profiles that disable Sparkle updates for specified apps.
 * [LoginLog](https://github.com/MagerValp/LoginLog) - Cocoa/PyObjC app that display a log of your choice over the loginwindow, useful during deployment tasks.
 * [NCUtil](https://github.com/jacobsalmela/NCutil) - Programmatic access to Notification Center via direct manipulation of the NC database.
 * [outset](https://github.com/chilcote/outset) - Script and launchd combo for executing admin-defined scripts after logins and startup.
