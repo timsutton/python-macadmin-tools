@@ -93,6 +93,7 @@ Table of Contents
 * [gpymacutil](https://github.com/google/macops) - Vast library of Python modules and tools for client management developed by Google.
 * [MacModelShelf](https://github.com/MagerValp/MacModelShelf) - Returns human-readable Mac model names when given a serial number or model code.
 * [OSXcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X, developed by Yelp.
+* [pinpoint](https://github.com/clburlison/pinpoint) - A python script for finding Macs using the CoreLocation framework.
 * [pyfacts](https://github.com/chilcote/pyfacts) - Returns various 'facts' about a Mac.
 * [PyMacAdmin and crankd](https://github.com/nigelkersten/pymacadmin) - Collection of Python utilities for interfacing to directory services and system configuration state changes, Leopard-era, developed at Google.
 * [SavingThrow](https://github.com/sheagcraig/SavingThrow) - Returns information on whether a Mac has adware/malware installed, and includes an option for automatic removal.
