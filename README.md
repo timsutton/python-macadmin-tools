@@ -87,11 +87,13 @@ Table of Contents
 * [PredicateInstaller](https://github.com/mkuron/PredicateInstaller) - Programmatic invocation of Software Update client tasks such as printer drivers, dictation voices, CLI tools, Boot Camp drivers, via the private SoftwareUpdate framework.
 * [Privacy Services Manager](https://github.com/univ-of-utah-marriott-library-apple/privacy_services_manager) - Programmatic access to privacy, location, etc. services via direct manipulation of the TCC database.
 * [pyLoginItems](https://github.com/pudquick/pyLoginItems) - Management of a user's login items list via PyObjC.
-* [SafariBookmarkEditor](https://github.com/robperc/SafariBookmarkEditor) - CLI tool for adding and removing Safari bookmarks in the context of the currently logged in user.
 
 ## Client-side management: libraries and modules
 
+* [ChromeBookmarkEditor](https://github.com/robperc/ChromeBookmarkEditor) - Python module for easily adding, removing, and moving positions of bookmarks on the Chrome bookmark menu in the context of the logged in user.
+* [DockEditor](https://github.com/robperc/DockEditor) - Python module for easily adding, removing, and moving positions of Dock items in the context of the logged in user.
 * [Facebook IT-CPE](https://github.com/facebook/IT-CPE) - A suite of tools that Facebook uses to manage their fleet of over 10,000 client machines.
+* [FinderSidebarEditor](https://github.com/robperc/FinderSidebarEditor) - Python module for programmatically editing the Favorites entries of the Finder sidebar.
 * [gpymacutil](https://github.com/google/macops) - Vast library of Python modules and tools for client management developed by Google.
 * [MacModelShelf](https://github.com/MagerValp/MacModelShelf) - Returns human-readable Mac model names when given a serial number or model code.
 * [OSXcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X, developed by Yelp.
@@ -99,6 +101,7 @@ Table of Contents
 * [pyfacts](https://github.com/chilcote/pyfacts) - Returns various 'facts' about a Mac.
 * [PyMacAdmin and crankd](https://github.com/nigelkersten/pymacadmin) - Collection of Python utilities for interfacing to directory services and system configuration state changes, Leopard-era, developed at Google.
 * [SavingThrow](https://github.com/sheagcraig/SavingThrow) - Returns information on whether a Mac has adware/malware installed, and includes an option for automatic removal.
+* [SafariBookmarkEditor](https://github.com/robperc/SafariBookmarkEditor) - Python module for easily adding, removing, and moving positions of Safari bookmarks in the context of the currently logged in user.
 * [U. of Utah Marriott Library Management Tools](https://github.com/univ-of-utah-marriott-library-apple/management_tools) - Python module for client management.
 * [Zentral](https://github.com/zentralopensource/zentral) - Framework that allows administrators to configure automatic actions based on changes detected by [osquery](https://osquery.io/).
 
