@@ -24,13 +24,14 @@ Table of Contents
 
 * [autopromoter](https://github.com/jessepeterson/autopromoter) - Automatically promote (or demote) Munki pkginfo catalogs.
 * [BananaPeels](https://github.com/robperc/BananaPeels) - A framework for testing the deployement of packages via Munki wrapped in a CLI tool. Requires VMWare Fusion.
+* [MunkiGenericIcons](https://github.com/aysiu/MunkiGenericIcons) - Copies your own custom Generic.png to any Munki items missing a corresponding icon.
 * [MunkiModulePackager](https://github.com/robperc/MunkiModulePackager) - CLI tool for downloading and packaging PyPi module sources for distribution via Munki.
 * [Munki project](https://github.com/munki/munki) - Managed software installations for Mac clients. Supports all popular software distribution formats. This is the de facto project repository.
 * [Munki Promote](https://github.com/joshua-d-miller/munki-promote) - Another script for promoting items from one catalog to another.
 * [MunkiWebAdmin](https://github.com/munki/munkiwebadmin) - A Django-based reporting app for Munki - support for licensing, manifest editing.
 * [munki-staging](https://github.com/ox-it/munki-staging) - A fork of the munki-trello project with several additional major features.
 * [munki-trello](https://github.com/pebbleit/munki-trello) - A script that utilises a Trello board to manage the promotion of Munki items through development to testing to production catalogs.
-* [OldMunkiPackages](https://github.com/aysiu/OldMunkiPackages) - Scripts to automatically remove older versions of packages that share the same catalogs.
+* [OldMunkiPackages](https://github.com/aysiu/OldMunkiPackages) - Script to automatically remove older versions of packages that share the same catalogs.
 * [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) - Generate specific 'nopkg' pkginfos for printer configurations.
 * [printer-pkginfo](https://github.com/grahamgilbert/printer-pkginfo) - Another script for generating specific 'nopkg' pkginfos for printer configurations.
 * [Sal](https://github.com/salsoftware/sal) - Another Django-based reporting app for Munki, integrates with Facter facts on clients.
@@ -82,6 +83,7 @@ Table of Contents
 * [Extinguish](https://github.com/arubdesu/Extinguish) - Generates profiles that disable Sparkle updates for specified apps.
 * [LoginLog](https://github.com/MagerValp/LoginLog) - Cocoa/PyObjC app that display a log of your choice over the loginwindow, useful during deployment tasks.
 * [NCUtil](https://github.com/jacobsalmela/NCutil) - Programmatic access to Notification Center via direct manipulation of the NC database.
+* [offset](https://github.com/aysiu/offset) - Script and launchd combo for executing admin-defined scripts at logout (based on Outset).
 * [outset](https://github.com/chilcote/outset) - Script and launchd combo for executing admin-defined scripts after logins and startup.
 * [OutsetDockProfiler](https://github.com/nmcspadden/OutsetDockProfiler) - Script that creates a package to use with Outset that will install a user-level profile for a specific user of your choice.
 * [PredicateInstaller](https://github.com/mkuron/PredicateInstaller) - Programmatic invocation of Software Update client tasks such as printer drivers, dictation voices, CLI tools, Boot Camp drivers, via the private SoftwareUpdate framework.
