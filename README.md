@@ -118,6 +118,7 @@ Table of Contents
 * [JSS Import](https://github.com/nmcspadden/JSSImport) - Pulls data from Casper 9 to a Postgres database for purpose of importing into WebHelpDesk. (Not to be confused with [JSSImporter](https://github.com/sheagcraig/JSSImporter).)
 * [JSS Asset Tag Importer](https://github.com/bradschm/jss-assettag-importer) - Allows Casper administrators to quickly import asset tags into their JSS inventory.
 * [mcxToProfile](https://github.com/timsutton/mcxToProfile) - Convert preference plists and MCX nodes to Configuration Profiles for OS X management.
+* [ProfileSigner](https://github.com/nmcspadden/ProfileSigner) - A script that will encrypt and/or sign a .mobileconfig profile.
 * [pyMacWarranty](https://github.com/pudquick/pyMacWarranty) - Retrieve warranty information given a Mac's serial number, estimates of manufacture date info and more.
 * [pyMASreceipt](https://github.com/pudquick/pyMASreceipt) - Module for parsing Mac App Store receipts files.
 * [Python-JSS](https://github.com/sheagcraig/python-jss) - Library that allows administrators to interact with a JSS using Python. Included with JSSImporter.
