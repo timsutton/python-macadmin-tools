@@ -4,7 +4,7 @@ This repository aims to collect a list of open-source Python-based tools for Mac
 
 Why is this list limited to Python? Why not include all projects in this space? Python is an especially popular language among Mac sysadmins; this restriction is partly so that those learning Python for Mac-specific tasks have a mostly-complete list of known code and approaches from which to learn. It's also to help those more experienced with Python to discover projects that they may be able to adapt, extend and/or contribute to.
 
-See something missing or incorrect? Please feel free to [edit](https://github.com/timsutton/python-macadmin-tools/edit/master/README.md) or clone this file and [submit a pull request](https://github.com/timsutton/python-macadmin-tools/pulls). This repo was inspired by R.I. Pienaar's popular [free-for-dev](https://github.com/ripienaar/free-for-dev) repo.
+See something missing or incorrect? Please feel frede to [edit](https://github.com/timsutton/python-macadmin-tools/edit/master/README.md) or clone this file and [submit a pull request](https://github.com/timsutton/python-macadmin-tools/pulls). This repo was inspired by R.I. Pienaar's popular [free-for-dev](https://github.com/ripienaar/free-for-dev) repo.
 
 Table of Contents
 =================
@@ -110,8 +110,9 @@ Table of Contents
 ## Mobile Device Management (MDM)
 
 * [Commandment](https://github.com/jessepeterson/commandment) - MDM server with support for managing iOS and OS X devices implemented in Python.
-* [mk_pkg_manifest.py](https://gist.github.com/jessepeterson/d9d1f592a8c54395827f73dc60b3a0f3) - Script for creating an Apple software distribution manifest for an Apple pkg installer.
+* [DEPy](https://github.com/bruienne/depy) - Python module for interacting with Apple's DEP service.
 * [mdmvendorsign](https://github.com/grinich/mdmvendorsign) - Create a CSR as a "vendor" of Apple's MDM push notification service.
+* [mk_pkg_manifest.py](https://gist.github.com/jessepeterson/d9d1f592a8c54395827f73dc60b3a0f3) - Script for creating an Apple software distribution manifest for an Apple pkg installer.
 
 ## Misc. utilities and modules
 
