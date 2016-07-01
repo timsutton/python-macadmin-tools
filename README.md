@@ -110,6 +110,8 @@ Table of Contents
 ## Mobile Device Management (MDM)
 
 * [Commandment](https://github.com/jessepeterson/commandment) - MDM server with support for managing iOS and OS X devices implemented in Python.
+* [mk_pkg_manifest.py](https://gist.github.com/jessepeterson/d9d1f592a8c54395827f73dc60b3a0f3) - Script for creating an Apple software distribution manifest for an Apple pkg installer.
+* [mdmvendorsign](https://github.com/grinich/mdmvendorsign) - Create a CSR as a "vendor" of Apple's MDM push notification service.
 
 ## Misc. utilities and modules
 
