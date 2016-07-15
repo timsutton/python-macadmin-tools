@@ -89,6 +89,7 @@ Table of Contents
 * [PredicateInstaller](https://github.com/mkuron/PredicateInstaller) - Programmatic invocation of Software Update client tasks such as printer drivers, dictation voices, CLI tools, Boot Camp drivers, via the private SoftwareUpdate framework.
 * [Privacy Services Manager](https://github.com/univ-of-utah-marriott-library-apple/privacy_services_manager) - Programmatic access to privacy, location, etc. services via direct manipulation of the TCC database.
 * [pyLoginItems](https://github.com/pudquick/pyLoginItems) - Management of a user's login items list via PyObjC.
+* [Service Discovery Tool](https://github.com/CLCMacTeam/sdt) - CLI diagnostics tool for reporting DHCP and NetBoot services.
 
 ## Client-side management: libraries and modules
 
