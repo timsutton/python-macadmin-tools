@@ -29,6 +29,7 @@ Table of Contents
 * [Munki project](https://github.com/munki/munki) - Managed software installations for Mac clients. Supports all popular software distribution formats. This is the de facto project repository.
 * [Munki Promote](https://github.com/joshua-d-miller/munki-promote) - Another script for promoting items from one catalog to another.
 * [MunkiWebAdmin](https://github.com/munki/munkiwebadmin) - A Django-based reporting app for Munki - support for licensing, manifest editing.
+* [Munki-Do](https://github.com/grahampugh/munki-do) - A fork of MunkiWebAdmin with many new repo-editing features.
 * [munki-staging](https://github.com/ox-it/munki-staging) - A fork of the munki-trello project with several additional major features.
 * [munki-trello](https://github.com/pebbleit/munki-trello) - A script that utilises a Trello board to manage the promotion of Munki items through development to testing to production catalogs.
 * [OldMunkiPackages](https://github.com/aysiu/OldMunkiPackages) - Script to automatically remove older versions of packages that share the same catalogs.
