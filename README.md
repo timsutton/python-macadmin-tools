@@ -24,6 +24,7 @@ Table of Contents
 
 * [autopromoter](https://github.com/jessepeterson/autopromoter) - Automatically promote (or demote) Munki pkginfo catalogs.
 * [BananaPeels](https://github.com/robperc/BananaPeels) - A framework for testing the deployement of packages via Munki wrapped in a CLI tool. Requires VMWare Fusion.
+* [MunkiCatalogPromote](https://github.com/aysiu/MunkiCatalogPromote) - Promotes Munki pkginfo catalogs that haven't been promoted in X number of days.
 * [MunkiGenericIcons](https://github.com/aysiu/MunkiGenericIcons) - Copies your own custom Generic.png to any Munki items missing a corresponding icon.
 * [MunkiModulePackager](https://github.com/robperc/MunkiModulePackager) - CLI tool for downloading and packaging PyPi module sources for distribution via Munki.
 * [Munki project](https://github.com/munki/munki) - Managed software installations for Mac clients. Supports all popular software distribution formats. This is the de facto project repository.
