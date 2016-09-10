@@ -81,6 +81,7 @@ Table of Contents
 
 ## Client-side management: utilities
 
+* [auto_logout](https://github.com/sheagcraig/auto_logout) - PyObjC app to automatically log out users, designed for Mac computer labs.
 * [customdisplayprofiles](https://github.com/timsutton/customdisplayprofiles) - Programmatic configuration of display ColorSync profiles.
 * [dockutil](https://github.com/kcrawford/dockutil) - Programmatic access to a user's dock.
 * [Extinguish](https://github.com/arubdesu/Extinguish) - Generates profiles that disable Sparkle updates for specified apps.
