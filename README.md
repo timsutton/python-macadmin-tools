@@ -70,6 +70,7 @@ Table of Contents
 * [createOSXInstallPkg](https://github.com/munki/createOSXInstallPkg) - Tool for converting an OS X installer app/ESD to a package that can trigger the OS X install on the next boot, optionally with additional packages added in the install.
 * [CreateUserPkg](https://github.com/MagerValp/CreateUserPkg) - Mac app to create a package that installs or updates a user on an OS X system, built with PyObjC.
 * [first-boot-pkg](https://github.com/grahamgilbert/first-boot-pkg) - Tool for creating a single package that installs a series of packages automatically upon first boot.
+*[garageband loops](https://github.com/cwindus/garageband) - Tool for downloading GarageBand and Logic Pro loops packages.
 * [JSSImporter](https://github.com/sheagcraig/JSSImporter) - Framework for connecting AutoPkg to JSS, for administrators running JAMF's Casper Suite.
 * [JSSRecipeCreator](https://github.com/sheagcraig/JSSRecipeCreator) - Tool that enables Casper administrators to quickly create JSSImporter-compatbile AutoPkg recipes.
 * [MacNamer](https://github.com/grahamgilbert/macnamer) - Combination of a Django web app and a companion script to run on client Macs for automatically setting computer names.
