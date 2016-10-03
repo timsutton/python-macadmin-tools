@@ -139,6 +139,7 @@ Table of Contents
 * [py-gsxws](https://github.com/filipp/py-gsxws) - Library for communicating with Apple's GSX API
 * [SimplePySSH](https://github.com/robperc/SimplePySSH) - Module for executing and reading output from simple shell commands on remote machines via SSH using only built-in modules.
 * [precache](https://github.com/krypted/precache) - Used to cache available Apple updates into an OS X Server running the Caching Service.
+* [precache fork with macOS installer caching](https://github.com/carlashley/precache) - Forked from krypted. Pre-caches watchOS, iOS, tvOS, IPSW's, and macOS installers from Mountain Lion to Sierra.
 
 ## Scripts and gists
 
