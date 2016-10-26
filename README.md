@@ -29,6 +29,7 @@ Table of Contents
 * [MunkiCatalogPromote](https://github.com/aysiu/MunkiCatalogPromote) - Promotes Munki pkginfo catalogs that haven't been promoted in X number of days.
 * [MunkiGenericIcons](https://github.com/aysiu/MunkiGenericIcons) - Copies your own custom Generic.png to any Munki items missing a corresponding icon.
 * [MunkiModulePackager](https://github.com/robperc/MunkiModulePackager) - CLI tool for downloading and packaging PyPi module sources for distribution via Munki.
+* [Munki Enrollment Server](https://github.com/gerritdewitt/munki-enrollment-server) - A server that works in coordination with a [GUI client](https://github.com/gerritdewitt/munki-enrollment-client) that provides a method of enrolling a Mac with Munki for certificate-based communication and a custom manifest.
 * [Munki project](https://github.com/munki/munki) - Managed software installations for Mac clients. Supports all popular software distribution formats. This is the de facto project repository.
 * [Munki Promote](https://github.com/joshua-d-miller/munki-promote) - Another script for promoting items from one catalog to another.
 * [Munki Sysadmin Usability Improvement Toolkit](https://github.com/velotraveler/munkisuit) - CLI tools for maintaining workflows for managing Munki catalogs along with AutoPkg.
