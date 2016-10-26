@@ -35,6 +35,7 @@ Table of Contents
 * [MunkiWebAdmin](https://github.com/munki/munkiwebadmin) - A Django-based reporting app for Munki - support for licensing, manifest editing.
 * [Munki-Do](https://github.com/grahampugh/munki-do) - A fork of MunkiWebAdmin with many new repo-editing features.
 * [munki-facts](https://github.com/munki/munki-facts) - A framework for "admin-provided conditionals" for Munki.
+* [munki-rebrand](https://github.com/ox-it/munki-rebrand) - Scripts used by University of Oxford IT Services to rebrand Munki.
 * [munki-staging](https://github.com/ox-it/munki-staging) - A fork of the munki-trello project with several additional major features.
 * [munki-trello](https://github.com/pebbleit/munki-trello) - A script that utilises a Trello board to manage the promotion of Munki items through development to testing to production catalogs.
 * [OldMunkiPackages](https://github.com/aysiu/OldMunkiPackages) - Script to automatically remove older versions of packages that share the same catalogs.
