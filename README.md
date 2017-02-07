@@ -74,7 +74,7 @@ Table of Contents
 * [CreateUserPkg](https://github.com/MagerValp/CreateUserPkg) - Mac app to create a package that installs or updates a user on an OS X system, built with PyObjC.
 * [easy_rider](https://github.com/sheagcraig/easy_rider) - Automatically create overrides for a list of AutoPkg recipes, using current production Munki pkginfo and templates to override final recipe.
 * [first-boot-pkg](https://github.com/grahamgilbert/first-boot-pkg) - Tool for creating a single package that installs a series of packages automatically upon first boot.
-* [garageband loops](https://github.com/cwindus/garageband) - Tool for downloading GarageBand and Logic Pro loops packages.
+* [appleLoops](https://github.com/carlashley/appleLoops) - Utility for downloading essential and optional audio content for Apple GarageBand, Logic Pro X, and MainStage 3.
 * [JSSImporter](https://github.com/sheagcraig/JSSImporter) - Framework for connecting AutoPkg to JSS, for administrators running JAMF's Casper Suite.
 * [JSSRecipeCreator](https://github.com/sheagcraig/JSSRecipeCreator) - Tool that enables Casper administrators to quickly create JSSImporter-compatbile AutoPkg recipes.
 * [MacNamer](https://github.com/grahamgilbert/macnamer) - Combination of a Django web app and a companion script to run on client Macs for automatically setting computer names.
