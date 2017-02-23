@@ -117,6 +117,7 @@ Table of Contents
 * [PyMacAdmin and crankd](https://github.com/nigelkersten/pymacadmin) - Collection of Python utilities for interfacing to directory services and system configuration state changes, Leopard-era, developed at Google.
 * [SavingThrow](https://github.com/sheagcraig/SavingThrow) - Returns information on whether a Mac has adware/malware installed, and includes an option for automatic removal.
 * [SafariBookmarkEditor](https://github.com/robperc/SafariBookmarkEditor) - Python module for easily adding, removing, and moving positions of Safari bookmarks in the context of the currently logged in user.
+* [Stethoscope](https://github.com/Netflix/Stethoscope) - Web application that collects information for a given user's devices and gives them clear and specific recommendations for securing their systems.
 * [U. of Utah Marriott Library Management Tools](https://github.com/univ-of-utah-marriott-library-apple/management_tools) - Python module for client management.
 * [Zentral](https://github.com/zentralopensource/zentral) - Framework that allows administrators to configure automatic actions based on changes detected by [osquery](https://osquery.io/).
 
