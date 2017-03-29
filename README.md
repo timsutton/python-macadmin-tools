@@ -92,6 +92,7 @@ Table of Contents
 * [customdisplayprofiles](https://github.com/timsutton/customdisplayprofiles) - Programmatic configuration of display ColorSync profiles.
 * [dockutil](https://github.com/kcrawford/dockutil) - Programmatic access to a user's dock.
 * [Extinguish](https://github.com/arubdesu/Extinguish) - Generates profiles that disable Sparkle updates for specified apps.
+* [installapplications](https://github.com/erikng/installapplications) - A tool for dynamic use of `InstallApplication` with DEP.
 * [LoginLog](https://github.com/MagerValp/LoginLog) - Cocoa/PyObjC app that display a log of your choice over the loginwindow, useful during deployment tasks.
 * [NCUtil](https://github.com/jacobsalmela/NCutil) - Programmatic access to Notification Center via direct manipulation of the NC database.
 * [Nomadize](https://github.com/tburgin/Nomadize) - Tool to help move a local account or home folder to an Active Directory Mobile account.
