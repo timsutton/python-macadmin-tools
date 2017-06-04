@@ -25,6 +25,7 @@ Table of Contents
 * [autopromoter](https://github.com/jessepeterson/autopromoter) - Automatically promote (or demote) Munki pkginfo catalogs.
 * [BananaEndocarp](https://github.com/clburlison/BananaEndocarp) - BananaEndocarp is a scripted GUI for interacting with MunkiWebAdmin2's API, for creating per-machine manifests.
 * [BananaPeels](https://github.com/robperc/BananaPeels) - A framework for testing the deployement of packages via Munki wrapped in a CLI tool. Requires VMWare Fusion.
+* [CloudFront-Middleware](https://github.com/AaronBurchfield/CloudFront-Middleware) - Securely access a munki repo with Amazon CloudFront.
 * [Moscargo](https://github.com/arubdesu/Moscargo) - Flask-based Munki repo browser used for listing and downloading current versions of curated packages.
 * [MunkiCatalogPromote](https://github.com/aysiu/MunkiCatalogPromote) - Promotes Munki pkginfo catalogs that haven't been promoted in X number of days.
 * [MunkiGenericIcons](https://github.com/aysiu/MunkiGenericIcons) - Copies your own custom Generic.png to any Munki items missing a corresponding icon.
