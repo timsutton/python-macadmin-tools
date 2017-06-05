@@ -142,6 +142,7 @@ Table of Contents
 * [pyMASreceipt](https://github.com/pudquick/pyMASreceipt) - Module for parsing Mac App Store receipts files.
 * [Python-JSS](https://github.com/sheagcraig/python-jss) - Library that allows administrators to interact with a JSS using Python. Included with JSSImporter.
 * [Serveralerts](https://github.com/hunty1/Serveralerts) - Manage the Server alerts DB of Server.app.
+* [Service Discovery Tool](https://git.psu.edu/sysman/ServiceDiscoveryTool) - Broadcasts DHCP Request and BSDP Inform packets on the local network and reports reponses for NetBoot/DHCP diagnostics.
 * [vserv](https://github.com/chilcote/vserv) - Service to monitor one or more vmx path[s] and restart the vmx[s] if necessary.
 * [warranty](https://github.com/chilcote/warranty) - Another warranty information retrieval script.
 * [Xcode Cocoa-Python Templates](https://github.com/gregneagle/Xcode6CocoaPythonTemplates) - Xcode 6 templates for Cocoa-Python development: Also [Xcode 5](https://github.com/gregneagle/Xcode5CocoaPythonTemplates), [Xcode 4](https://github.com/gregneagle/Xcode4CocoaPythonTemplates).
