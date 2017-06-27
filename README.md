@@ -132,6 +132,7 @@ Table of Contents
 
 ## Misc. utilities and modules
 
+* [APInfo)(https://github.com/erikng/scripts/tree/master/APInfo) - Obtain information about iOS/macOS applications and optionally output the results to Slack.
 * [appleseed](https://github.com/chilcote/appleseed) - Automate downloading os x seed packages.
 * [edify](https://github.com/chilcote/edify) - Stores a customizable library of command line syntax examples, with short descriptions.
 * [JSS Import](https://github.com/nmcspadden/JSSImport) - Pulls data from Casper 9 to a Postgres database for purpose of importing into WebHelpDesk. (Not to be confused with [JSSImporter](https://github.com/sheagcraig/JSSImporter).)
