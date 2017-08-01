@@ -150,6 +150,7 @@ Table of Contents
 * [py-gsxws](https://github.com/filipp/py-gsxws) - Library for communicating with Apple's GSX API
 * [SimplePySSH](https://github.com/robperc/SimplePySSH) - Module for executing and reading output from simple shell commands on remote machines via SSH using only built-in modules.
 * [precache](https://github.com/krypted/precache) - Used to cache available Apple updates into an OS X Server running the Caching Service.
+* [xcode_tools](https://github.com/carlashley/xcode_tools) - Grabs the XCode CLI tools and SDK packages from the Mac software update catalog and stores them in `~/Desktop` - avoids GUI prompts.
 
 ## Scripts and gists
 
