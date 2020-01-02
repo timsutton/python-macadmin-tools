@@ -4,7 +4,7 @@ This repository aims to collect a list of open-source Python-based tools for Mac
 
 Why is this list limited to Python? Why not include all projects in this space? Python is an especially popular language among Mac sysadmins; this restriction is partly so that those learning Python for Mac-specific tasks have a mostly-complete list of known code and approaches from which to learn. It's also to help those more experienced with Python to discover projects that they may be able to adapt, extend and/or contribute to.
 
-See something missing or incorrect? Please feel frede to [edit](https://github.com/timsutton/python-macadmin-tools/edit/master/README.md) or clone this file and [submit a pull request](https://github.com/timsutton/python-macadmin-tools/pulls). This repo was inspired by R.I. Pienaar's popular [free-for-dev](https://github.com/ripienaar/free-for-dev) repo.
+See something missing or incorrect? Please feel free to [edit](https://github.com/timsutton/python-macadmin-tools/edit/master/README.md) or clone this file and [submit a pull request](https://github.com/timsutton/python-macadmin-tools/pulls). This repo was inspired by R.I. Pienaar's popular [free-for-dev](https://github.com/ripienaar/free-for-dev) repo.
 
 Table of Contents
 =================
