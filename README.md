@@ -24,7 +24,7 @@ Table of Contents
 
 * [autopromoter](https://github.com/jessepeterson/autopromoter) - Automatically promote (or demote) Munki pkginfo catalogs.
 * [BananaEndocarp](https://github.com/clburlison/BananaEndocarp) - BananaEndocarp is a scripted GUI for interacting with MunkiWebAdmin2's API, for creating per-machine manifests.
-* [BananaPeels](https://github.com/robperc/BananaPeels) - A framework for testing the deployement of packages via Munki wrapped in a CLI tool. Requires VMWare Fusion.
+* [BananaPeels](https://github.com/robperc/BananaPeels) - A framework for testing the deployment of packages via Munki wrapped in a CLI tool. Requires VMWare Fusion.
 * [CloudFront-Middleware](https://github.com/AaronBurchfield/CloudFront-Middleware) - Securely access a munki repo with Amazon CloudFront.
 * [Moscargo](https://github.com/arubdesu/Moscargo) - Flask-based Munki repo browser used for listing and downloading current versions of curated packages.
 * [MunkiCatalogPromote](https://github.com/aysiu/MunkiCatalogPromote) - Promotes Munki pkginfo catalogs that haven't been promoted in X number of days.
@@ -46,7 +46,7 @@ Table of Contents
 * [Sal](https://github.com/salsoftware/sal) - Another Django-based reporting app for Munki, integrates with Facter facts on clients.
 * [Simian](https://github.com/google/simian) - Custom Munki service based on GAE, by Google.
 * [Spruce for Munki](https://github.com/sheagcraig/Spruce-for-Munki) - Generates lists/reports, including orphaned icons or unused products.
-* [TweetCatalogUpdates](https://github.com/binkleybloom/tweetCatalogUpdates) - Python script that watches for catalog changes in your munki respository, and tweets them.
+* [TweetCatalogUpdates](https://github.com/binkleybloom/tweetCatalogUpdates) - Python script that watches for catalog changes in your munki repository, and tweets them.
 
 ## Imagr
 
@@ -56,8 +56,8 @@ Table of Contents
 
 ## Servers
 
-* [bsdpy](https://bitbucket.org/bruienne/bsdpy) - BSDP server with support for multiple netboot images, model/MAC filtering and an API.
-* [Crypt](https://github.com/grahamgilbert/Crypt) - Client and server for a Django-based Filevault key escrow solution.
+* [bsdpy](https://bitbucket.org/bruienne/bsdpy) - BSDP server with support for multiple NetBoot images, model/MAC filtering and an API.
+* [Crypt](https://github.com/grahamgilbert/Crypt) - Client and server for a Django-based FileVault key escrow solution.
 * [Macnamer](https://github.com/grahamgilbert/macnamer) - Django-based solution for managing Mac computer names.
 * [Margarita](https://github.com/jessepeterson/margarita) - Flask-based web interface for Reposado.
 * [pybsdpy](https://github.com/cabal95/pybsdp) - Another BSDP server.
@@ -67,7 +67,7 @@ Table of Contents
 
 * [aamporter](https://github.com/timsutton/aamporter) - Tool for automating the download and importing of Adobe CS/CC updates into Munki.
 * [AutoDMG](https://github.com/MagerValp/AutoDMG) - Mac app to create never-booted, restorable OS X system images, optionally with system updates and additional packages/applications, built with PyObjC.
-* [AutoNBI](https://bitbucket.org/bruienne/autonbi) - Tool for automated creation of Netboot image bundles using System Image Utility's automation tools.
+* [AutoNBI](https://bitbucket.org/bruienne/autonbi) - Tool for automated creation of NetBoot image bundles using System Image Utility's automation tools.
 * [AutoPkg](https://github.com/autopkg/autopkg) - Tool and community for automating common deployment tasks using sharable 'recipes', for example: discovering new application updates, preparing them for deployment, importing into popular management platforms.
 * [Brigadier](https://github.com/timsutton/brigadier) - Tool for fetch and install model-specific Boot Camp images, can be used to bootstrap drivers during Windows deployment.
 * [can_haz_image](https://github.com/google/macops) - Tool for creating never-booted OS X system images with additional packages.
@@ -77,7 +77,7 @@ Table of Contents
 * [first-boot-pkg](https://github.com/grahamgilbert/first-boot-pkg) - Tool for creating a single package that installs a series of packages automatically upon first boot.
 * [appleLoops](https://github.com/carlashley/appleLoops) - Utility for downloading essential and optional audio content for Apple GarageBand, Logic Pro X, and MainStage 3.
 * [JSSImporter](https://github.com/sheagcraig/JSSImporter) - Framework for connecting AutoPkg to JSS, for administrators running JAMF's Casper Suite.
-* [JSSRecipeCreator](https://github.com/sheagcraig/JSSRecipeCreator) - Tool that enables Casper administrators to quickly create JSSImporter-compatbile AutoPkg recipes.
+* [JSSRecipeCreator](https://github.com/sheagcraig/JSSRecipeCreator) - Tool that enables Casper administrators to quickly create JSSImporter-compatible AutoPkg recipes.
 * [MacNamer](https://github.com/grahamgilbert/macnamer) - Combination of a Django web app and a companion script to run on client Macs for automatically setting computer names.
 * [make-adobe-cc-license-pkg](https://github.com/timsutton/make-adobe-cc-license-pkg) - Tool for building packages and Munki pkginfos for CC for Teams device and Enterprise serial licenses.
 * [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) - Convert a Configuration Profile to an installer package that can be installed to both booted and non-booted volumes.
@@ -143,7 +143,7 @@ Table of Contents
 * [pyMASreceipt](https://github.com/pudquick/pyMASreceipt) - Module for parsing Mac App Store receipts files.
 * [Python-JSS](https://github.com/sheagcraig/python-jss) - Library that allows administrators to interact with a JSS using Python. Included with JSSImporter.
 * [Serveralerts](https://github.com/hunty1/Serveralerts) - Manage the Server alerts DB of Server.app.
-* [Service Discovery Tool](https://git.psu.edu/sysman/ServiceDiscoveryTool) - Broadcasts DHCP Request and BSDP Inform packets on the local network and reports reponses for NetBoot/DHCP diagnostics.
+* [Service Discovery Tool](https://git.psu.edu/sysman/ServiceDiscoveryTool) - Broadcasts DHCP Request and BSDP Inform packets on the local network and reports responses for NetBoot/DHCP diagnostics.
 * [vserv](https://github.com/chilcote/vserv) - Service to monitor one or more vmx path[s] and restart the vmx[s] if necessary.
 * [warranty](https://github.com/chilcote/warranty) - Another warranty information retrieval script.
 * [Xcode Cocoa-Python Templates](https://github.com/gregneagle/Xcode6CocoaPythonTemplates) - Xcode 6 templates for Cocoa-Python development: Also [Xcode 5](https://github.com/gregneagle/Xcode5CocoaPythonTemplates), [Xcode 4](https://github.com/gregneagle/Xcode4CocoaPythonTemplates).
