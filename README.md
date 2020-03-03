@@ -122,6 +122,7 @@ Table of Contents
 * [Stethoscope](https://github.com/Netflix/Stethoscope) - Web application that collects information for a given user's devices and gives them clear and specific recommendations for securing their systems.
 * [U. of Utah Marriott Library Management Tools](https://github.com/univ-of-utah-marriott-library-apple/management_tools) - Python module for client management.
 * [Zentral](https://github.com/zentralopensource/zentral) - Framework that allows administrators to configure automatic actions based on changes detected by [osquery](https://osquery.io/).
+* [machammer](https://github.com/filipp/machammer) - library for Mac client management.
 
 ## Mobile Device Management (MDM)
 
