@@ -96,7 +96,6 @@ Table of Contents
 * [installapplications](https://github.com/erikng/installapplications) - A tool for dynamic use of `InstallApplication` with DEP.
 * [LoginLog](https://github.com/MagerValp/LoginLog) - Cocoa/PyObjC app that display a log of your choice over the loginwindow, useful during deployment tasks.
 * [NCUtil](https://github.com/jacobsalmela/NCutil) - Programmatic access to Notification Center via direct manipulation of the NC database.
-* [Nomadize](https://github.com/tburgin/Nomadize) - Tool to help move a local account or home folder to an Active Directory Mobile account.
 * [offset](https://github.com/aysiu/offset) - Script and launchd combo for executing admin-defined scripts at logout (based on Outset).
 * [outset](https://github.com/chilcote/outset) - Script and launchd combo for executing admin-defined scripts after logins and startup.
 * [OutsetDockProfiler](https://github.com/nmcspadden/OutsetDockProfiler) - Script that creates a package to use with Outset that will install a user-level profile for a specific user of your choice.
