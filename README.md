@@ -150,6 +150,7 @@ Table of Contents
 * [py-gsxws](https://github.com/filipp/py-gsxws) - Library for communicating with Apple's GSX API
 * [SimplePySSH](https://github.com/robperc/SimplePySSH) - Module for executing and reading output from simple shell commands on remote machines via SSH using only built-in modules.
 * [precache](https://github.com/krypted/precache) - Used to cache available Apple updates into an OS X Server running the Caching Service.
+* [Frevo](https://github.com/matuzalemmuller/Frevo) - Run customizable commands from the Mac top bar.
 
 ## Scripts and gists
 
