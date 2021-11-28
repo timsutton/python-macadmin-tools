@@ -150,6 +150,8 @@ Table of Contents
 * [py-gsxws](https://github.com/filipp/py-gsxws) - Library for communicating with Apple's GSX API
 * [SimplePySSH](https://github.com/robperc/SimplePySSH) - Module for executing and reading output from simple shell commands on remote machines via SSH using only built-in modules.
 * [precache](https://github.com/krypted/precache) - Used to cache available Apple updates into an OS X Server running the Caching Service.
+* [python-jamf](https://github.com/univ-of-utah-marriott-library-apple/python-jamf) - Module to access the Jamf Pro Classic API.
+* [jctl](https://github.com/univ-of-utah-marriott-library-apple/jctl) - Command line based tool that provides easy access to the Jamf management capabilities of [python-jamf](https://github.com/univ-of-utah-marriott-library-apple/python-jamf).
 
 ## Scripts and gists
 
